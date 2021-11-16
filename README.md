@@ -7,5 +7,6 @@ https://valkiria2.herokuapp.com/
 
 # Repositories:
 ## Econometria_Basica
-- Repositories with Notebooks
+- Repositories with Notebooks about basic econometrics.
+- Teaching material of "Econometría Básica con Python" (UIFCE [Universidad Nacional de Colombia] course)
 - Pandas, Statsmodels, Linearmodels, Matplotlib, Seaborn
