@@ -1,9 +1,9 @@
 # Projects
 
 ## Acciones BVC: 
-https://accionesbvc.herokuapp.com/ 
+https://accionesbvc.onrender.com/ 
 - Web app designed as a dashboard with basic information about the main stocks trading on BVC (Colombia Stock Exchange).
-- Dash-Plotly, Python, HTML, CSS, BeautifulSoup.
+- Dash-Plotly, Python, HTML, CSS, Render.
 
 # Repositories:
 ## Econometria_Basica
